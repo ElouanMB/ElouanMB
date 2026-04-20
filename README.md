@@ -13,7 +13,7 @@
 
 ### FinTech
 
-* **Languages:** ![Pine Script](https://img.shields.io/badge/-Pine_Script-2962FF?style=flat-square&logo=tradingview&logoColor=white) ![MQL5](https://img.shields.io/badge/-MQL5-004A7C?style=flat-square&logo=metatrader5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![KDB+](https://img.shields.io/badge/-KDB%2B%2F-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARElEQVQ4y2NgGAWjYBSMAtIAAyD+D8S/gfgvEB8H4v9A/B+IPwLxRyD+CMS/gfg3EP8G4t9A/BuIfwPxbyD+DcQAAMAYGxv9pS90AAAAAElFTkSuQmCC&logoColor=white)
+* **Languages:** ![Pine Script](https://img.shields.io/badge/-Pine_Script-2962FF?style=flat-square&logo=tradingview&logoColor=white) ![MQL5](https://img.shields.io/badge/-MQL5-004A7C?style=flat-square&logo=metatrader5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 * **Platforms:** ![TradingView](https://img.shields.io/badge/-TradingView-131722?style=flat-square&logo=tradingview&logoColor=white) ![MetaTrader](https://img.shields.io/badge/-MetaTrader_5-00599D?style=flat-square&logo=metatrader5&logoColor=white)
 
 ---
@@ -26,8 +26,8 @@
 
 ### Infra & DB
 
-* **DB:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-* **Ops:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+* **DB:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![KDB+](https://img.shields.io/badge/-KDB%2B%2F-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARElEQVQ4y2NgGAWjYBSMAtIAAyD+D8S/gfgvEB8H4v9A/B+IPwLxRyD+CMS/gfg3EP8G4t9A/BuIfwPxbyD+DcQAAMAYGxv9pS90AAAAAElFTkSuQmCC&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+* **Ops:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
