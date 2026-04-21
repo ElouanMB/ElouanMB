@@ -18,12 +18,6 @@
 
 ---
 
-### AI
-
-* **AI Stack:** ![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black) ![Claude](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Google](https://img.shields.io/badge/-Stitch_IA-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
 ### Infra & DB
 
 * **DB:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![KDB+](https://img.shields.io/badge/-KDB%2B%2F-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARElEQVQ4y2NgGAWjYBSMAtIAAyD+D8S/gfgvEB8H4v9A/B+IPwLxRyD+CMS/gfg3EP8G4t9A/BuIfwPxbyD+DcQAAMAYGxv9pS90AAAAAElFTkSuQmCC&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
@@ -37,4 +31,5 @@
 ---
 
 ### Design & Organization
-* ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+* ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Google](https://img.shields.io/badge/-Stitch_IA-4285F4?style=flat-square&logo=google&logoColor=white)
+
